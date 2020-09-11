@@ -4,30 +4,64 @@ My goal is to be a better person everyday
 
 ---
 
-### Languages and Tools:
+### Languages:
 
-1. Ruby (Ruby On Rails)
-1. Javascript (React, Angular, Ionic, Apollo, Jquery, Hubot)
-1. C# (Unity)
+1. Ruby
+   - Ruby On Rails
+1. Javascript
+   - React
+   - Angular
+   - Ionic
+   - Jquery
+   - Hubot
+1. C#
+   - Unity
 1. Python
 1. PHP
 1. Arduino
+
+### Serverless:
+
 1. AWS Amplify
-1. REST API
-1. GraphQL
-1. Bootstrap
-1. Ant Design
+   - Cognito (Authentication)
+   - API (GraphQL and REST)
+   - Dynamodb (Database)
+   - Route 53 (Domain Name System service)
+   - Lambda (Serverless Computing Platform)
+   - S3 (Storage)
+
+### Databases:
+
 1. PostgreSQL
 1. Redis
-1. Dynamodb
+
+### CSS frameworks:
+
+1. Bootstrap
+1. Ant Design
+
+### Version Controls:
+
 1. Git
 1. Commitizen
 1. Standard Version
+
+### Package Managers:
+
 1. NPM
 1. Bundler
-1. RabbitMMQ
+
+### Linters and Formatters:
+
 1. Eslint
 1. Prettier
+
+### Message Brokers:
+
+1. RabbitMMQ
+
+### Virtualizations:
+
 1. Docker
 1. Docker Compose
 
