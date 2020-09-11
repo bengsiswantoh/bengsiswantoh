@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.mightiesthero.vercel.app/api/top-langs/?username=bengsiswantoh)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="bengsiswantoh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
