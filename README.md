@@ -1,10 +1,10 @@
-## Hi there, I'm Bengsiswanto Hendrawan
+### Hi there, I'm Bengsiswanto Hendrawan
 
 My goal is to be a better person everyday
 
 ---
 
-## Languages and Tools:
+### Languages and Tools:
 
 1. Ruby (Ruby On Rails)
 1. Javascript (React, Angular, Ionic, Apollo, Jquery, Hubot)
@@ -39,7 +39,7 @@ My goal is to be a better person everyday
 
 ---
 
-## My Experiences:
+### My Experiences:
 
 1. Software Engineer
    - PadiNET (PT Padi Internet )
@@ -50,7 +50,7 @@ My goal is to be a better person everyday
 
 ---
 
-## Find me on:
+### Find me on:
 
 [<img align="left" alt="CharalambosIoannou | Mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 [<img align="left" alt="bengsiswantoh | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -61,7 +61,7 @@ My goal is to be a better person everyday
 
 ---
 
-## My Github Stats:
+### My Github Stats:
 
 \*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
