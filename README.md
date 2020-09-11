@@ -43,8 +43,9 @@ My goal is to be a better person everyday
 ### Version Controls:
 
 1. Git
-1. Commitizen
-1. Standard Version
+   - Commitizen
+   - Standard Version
+1. SVN
 
 ### Package Managers:
 
