@@ -6,55 +6,80 @@ My goal is to be a better person everyday
 
 ### Languages:
 
-1. Ruby
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> Ruby
+
    - Ruby On Rails
-1. Javascript
-   - React
-   - Angular
+
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript
+
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React
+
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> Angular
+
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"> Jquery
+
    - Ionic
-   - Jquery
+
    - Hubot
-1. C#
+
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> C#
+
    - Unity
-1. Python
-1. PHP
-1. Arduino
+
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python
+
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> PHP
+
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> Arduino
 
 ### Serverless:
 
 1. AWS Amplify
+
    - Cognito (Authentication)
+
    - API (GraphQL and REST)
+
    - Dynamodb (Database)
+
    - Route 53 (Domain Name System service)
+
    - Lambda (Serverless Computing Platform)
+
    - S3 (Storage)
 
 ### Databases:
 
-1. PostgreSQL
-1. Redis
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"> PostgreSQL
+
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"> Redis
 
 ### CSS frameworks:
 
-1. Bootstrap
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> Bootstrap
+
 1. Ant Design
 
 ### Version Controls:
 
-1. Git
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git
+
    - Commitizen
+
    - Standard Version
+
 1. SVN
 
 ### Package Managers:
 
 1. NPM
+
 1. Bundler
 
 ### Linters and Formatters:
 
-1. Eslint
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"> Eslint
+
 1. Prettier
 
 ### Message Brokers:
@@ -63,14 +88,9 @@ My goal is to be a better person everyday
 
 ### Virtualizations:
 
-1. Docker
-1. Docker Compose
+1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"> Docker
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
+   - Docker Compose
 
 ---
 
