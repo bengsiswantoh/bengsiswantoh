@@ -6,11 +6,11 @@ My goal is to be a better person everyday
 
 ### Languages:
 
-1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> Ruby
+1. Ruby
 
    - Ruby On Rails
 
-1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript
+1. Javascript
 
    - React
    - Angular
@@ -18,15 +18,22 @@ My goal is to be a better person everyday
    - Jquery
    - Hubot
 
-1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> C#
+1. C#
 
    - Unity
 
-1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python
+1. Python
 
-1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> PHP
+1. PHP
 
-1. <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> Arduino
+1. Arduino
+
+<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">  -->
+<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> -->
+<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> -->
+<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> -->
+<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> -->
+<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> -->
 
 ### Serverless:
 
@@ -76,14 +83,54 @@ My goal is to be a better person everyday
 
 ---
 
-### My Experiences:
+### Experiences:
 
-1. Software Engineer
-   - PT. Padi Internet
-   - Aug 2019 - Present
-1. IT-Application Supervisor
-   - PT. Dutakom Wibawa Putra
-   - Nov 2009 - Jul 2019 (9 yrs 9 mos)
+#### **PT. Padi Internet**, Software Engineer
+
+Aug 2019 - Present
+
+1. Maintain and develop app for sla report.
+
+   - Get log from checkmk livestatus and generate timeline.
+   - Edit downtime if downtime happens because problem in client.
+
+1. Maintain and develop app for creating assessments.
+
+   - Create list of questions.
+   - Answers have multiple types (input, single choice, multiple choices, date).
+
+1. Develop script for Arduino.
+
+   - Receive message using MQTT to control Air Conditioner.
+   - Sending temperature data using MQTT.
+   - Timer for UV light.
+
+#### **PT. Dutakom Wibawa Putra**, IT-Application Supervisor
+
+Nov 2009 - Jul 2019 (9 yrs 9 mos)
+
+1. Maintain and develop [DREAMS][dreams].
+
+   Platform for communication, contain of:
+
+   - Cloud Email Server: postfix, dovecot, clamav, spamassasin
+   - Team Collaboration: [Mattermost][mattermost]
+   - Newsletter Builder: [Mosaico][mosaico]
+
+1. Maintain and develop script for automations and bots.
+
+1. Maintain and develop applications for internal operation.
+   - HR application.
+   - Warehouse application.
+   - Customer's billing application.
+
+---
+
+### Educations:
+
+1. Sekolah Tinggi Teknik Surabaya
+   - Bachelor Of Information Technology
+   - 2009
 
 ---
 
@@ -91,8 +138,8 @@ My goal is to be a better person everyday
 
 [<img align="left" alt="CharalambosIoannou | Mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 [<img align="left" alt="bengsiswantoh | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bengsiswantoh | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="bengsiswantoh | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="bengsiswantoh | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -108,3 +155,6 @@ My goal is to be a better person everyday
 [linkedin]: https://www.linkedin.com/in/bengsiswanto-hendrawan
 [youtube]: https://www.youtube.com/channel/UCqxXmZPBZfuHVMzPHprDkPg
 [instagram]: https://instagram.com/bengsiswantoh
+[dreams]: https://dreamsmail.id
+[mattermost]: https://mattermost.com
+[mosaico]: https://mosaico.io
