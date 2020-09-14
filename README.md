@@ -38,6 +38,7 @@ My goal is to be a better person everyday
 ### Serverless:
 
 1. AWS Amplify
+
    - Cognito (Authentication)
    - API (GraphQL and REST)
    - Dynamodb (Database)
@@ -58,8 +59,10 @@ My goal is to be a better person everyday
 ### Version Controls:
 
 1. Git
+
    - Commitizen
    - Standard Version
+
 1. SVN
 
 ### Package Managers:
@@ -120,6 +123,7 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 1. Maintain and develop script for automations and bots.
 
 1. Maintain and develop applications for internal operation.
+
    - HR application.
    - Warehouse application.
    - Customer's billing application.
@@ -129,6 +133,7 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 ### Educations:
 
 1. Sekolah Tinggi Teknik Surabaya
+
    - Bachelor Of Information Technology
    - 2009
 
