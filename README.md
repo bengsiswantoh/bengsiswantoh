@@ -13,9 +13,13 @@ My goal is to be a better person everyday
 1. Javascript
 
    - React
+
    - Angular
+
    - Ionic
+
    - Jquery
+
    - Hubot
 
 1. C#
@@ -40,20 +44,27 @@ My goal is to be a better person everyday
 1. AWS Amplify
 
    - Cognito (Authentication)
+
    - API (GraphQL and REST)
+
    - Dynamodb (Database)
+
    - Route 53 (Domain Name System service)
+
    - Lambda (Serverless Computing Platform)
+
    - S3 (Storage)
 
 ### Databases:
 
 1. PostgreSQL
+
 1. Redis
 
 ### CSS frameworks:
 
 1. Bootstrap
+
 1. Ant Design
 
 ### Version Controls:
@@ -61,6 +72,7 @@ My goal is to be a better person everyday
 1. Git
 
    - Commitizen
+
    - Standard Version
 
 1. SVN
@@ -68,11 +80,13 @@ My goal is to be a better person everyday
 ### Package Managers:
 
 1. NPM
+
 1. Bundler
 
 ### Linters and Formatters:
 
 1. Eslint
+
 1. Prettier
 
 ### Message Brokers:
@@ -82,6 +96,7 @@ My goal is to be a better person everyday
 ### Virtualizations:
 
 1. Docker
+
    - Docker Compose
 
 ---
@@ -92,41 +107,49 @@ My goal is to be a better person everyday
 
 Aug 2019 - Present
 
-1. Maintain and develop app for sla report.
+1. Maintain and develop app for sla report
 
-   - Get log from checkmk livestatus and generate timeline.
-   - Edit downtime if downtime happens because problem in client.
+   - Get log from checkmk livestatus and generate timeline
 
-1. Maintain and develop app for creating assessments.
+   - Edit downtime if downtime happens because problem in client
 
-   - Create list of questions.
-   - Answers have multiple types (input, single choice, multiple choices, date).
+1. Maintain and develop app for creating assessments
 
-1. Develop script for Arduino.
+   - Create list of questions
 
-   - Receive message using MQTT to control Air Conditioner.
-   - Sending temperature data using MQTT.
-   - Timer for UV light.
+   - Answers have multiple types (input, single choice, multiple choices, date)
+
+1. Develop script for Arduino
+
+   - Receive message using MQTT to control Air Conditioner
+
+   - Sending temperature data using MQTT
+
+   - Timer for UV light
 
 #### **PT. Dutakom Wibawa Putra**, IT-Application Supervisor
 
 Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
-1. Maintain and develop [DREAMS][dreams].
+1. Maintain and develop [DREAMS][dreams]
 
    Platform for communication, contain of:
 
    - Cloud Email Server: postfix, dovecot, clamav, spamassasin
+
    - Team Collaboration: [Mattermost][mattermost]
+
    - Newsletter Builder: [Mosaico][mosaico]
 
-1. Maintain and develop script for automations and bots.
+1. Maintain and develop script for automations and bots
 
-1. Maintain and develop applications for internal operation.
+1. Maintain and develop applications for internal operation
 
-   - HR application.
-   - Warehouse application.
-   - Customer's billing application.
+   - Human Resource application
+
+   - Warehouse application
+
+   - Customer's billing application
 
 ---
 
@@ -135,6 +158,7 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 1. Sekolah Tinggi Teknik Surabaya
 
    - Bachelor Of Information Technology
+
    - 2009
 
 ---
