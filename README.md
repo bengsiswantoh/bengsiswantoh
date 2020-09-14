@@ -79,10 +79,10 @@ My goal is to be a better person everyday
 ### My Experiences:
 
 1. Software Engineer
-   - PadiNET (PT Padi Internet )
+   - PT. Padi Internet
    - Aug 2019 - Present
 1. IT-Application Supervisor
-   - Dutakom Wibawa Putra
+   - PT. Dutakom Wibawa Putra
    - Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 ---
