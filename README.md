@@ -134,9 +134,10 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 ---
 
-### Find me on:
+### Contacts:
 
-[<img align="left" alt="CharalambosIoannou | Mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="bengsiswantoh | Mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="bengsiswanto | Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="bengsiswantoh | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bengsiswantoh | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="bengsiswantoh | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -145,13 +146,14 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 ---
 
-### My Github Stats:
+### Github Stats:
 
 \*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 [![Top Langs](https://github-readme-stats.mightiesthero.vercel.app/api/top-langs/?username=bengsiswantoh)](https://github.com/bengsiswantoh/github-readme-stats)
 
 [mail]: mailto:bengsiswantoh@gmail.com
+[github]: https://github.com/bengsiswantoh
 [linkedin]: https://www.linkedin.com/in/bengsiswanto-hendrawan
 [youtube]: https://www.youtube.com/channel/UCqxXmZPBZfuHVMzPHprDkPg
 [instagram]: https://instagram.com/bengsiswantoh
