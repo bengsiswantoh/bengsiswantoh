@@ -183,7 +183,7 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 [mail]: mailto:bengsiswantoh@gmail.com
 [github]: https://github.com/bengsiswantoh
-[linkedin]: https://www.linkedin.com/in/bengsiswanto-hendrawan
+[linkedin]: https://www.linkedin.com/in/bengsiswantoh
 [youtube]: https://www.youtube.com/channel/UCqxXmZPBZfuHVMzPHprDkPg
 [instagram]: https://instagram.com/bengsiswantoh
 [dreams]: https://dreamsmail.id
