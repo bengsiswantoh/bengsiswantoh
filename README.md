@@ -175,11 +175,11 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 ---
 
-### Github Stats:
+<!--### Github Stats:
 
 \*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-<!-- [![Top Langs](https://github-readme-stats.mightiesthero.vercel.app/api/top-langs/?username=bengsiswantoh)](https://github.com/bengsiswantoh/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.mightiesthero.vercel.app/api/top-langs/?username=bengsiswantoh)](https://github.com/bengsiswantoh/github-readme-stats) -->
 
 [mail]: mailto:bengsiswantoh@gmail.com
 [github]: https://github.com/bengsiswantoh
