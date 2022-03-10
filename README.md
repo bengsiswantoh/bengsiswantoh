@@ -17,6 +17,8 @@ My goal is to be a better person everyday
    - Angular
 
    - Ionic
+   
+   - Nextjs
 
    - Jquery
 
