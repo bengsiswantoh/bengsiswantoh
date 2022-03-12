@@ -1,6 +1,6 @@
 ### Hi there, I'm Bengsiswanto Hendrawan
 
-My goal is to be a better person everyday
+My goal is to be a better me
 
 ---
 
@@ -13,12 +13,12 @@ My goal is to be a better person everyday
 1. Javascript
 
    - React
+   
+   - Nextjs
 
    - Angular
 
-   - Ionic
-   
-   - Nextjs
+   - Ionic  
 
    - Jquery
 
@@ -61,6 +61,8 @@ My goal is to be a better person everyday
 
 1. PostgreSQL
 
+1. Dynamodb
+
 1. Redis
 
 ### CSS frameworks:
@@ -68,6 +70,8 @@ My goal is to be a better person everyday
 1. Bootstrap
 
 1. Ant Design
+
+1. MUI
 
 ### Version Controls:
 
