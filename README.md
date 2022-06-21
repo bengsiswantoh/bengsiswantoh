@@ -1,109 +1,49 @@
 ### Hi there, I'm Bengsiswanto Hendrawan
 
-My goal is to be a better me
+Just an ordinary person strives to get better and contribute to society.
 
 ---
 
-### Languages:
-
-1. Ruby
-
-   - Ruby On Rails
+### Languages and Frameworks:
 
 1. Javascript
-
-   - React
-   
-   - Nextjs
-
-   - Angular
-
-   - Ionic  
-
-   - Jquery
-
-   - Hubot
-
-1. C#
-
-   - Unity
-
-1. Python
-
-1. PHP
-
-1. Arduino
-
-<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">  -->
-<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> -->
-<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> -->
-<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> -->
-<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> -->
-<!-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> -->
+2. Nextjs
+3. Angular
+4. Ionic  
+5. Hubot
+6. Ruby
+7. Ruby On Rails
+8. C#
+9. Unity
+10. Python
+11. Flask
 
 ### Serverless:
 
 1. AWS Amplify
-
-   - Cognito (Authentication)
-
-   - API (GraphQL and REST)
-
-   - Dynamodb (Database)
-
-   - Route 53 (Domain Name System service)
-
-   - Lambda (Serverless Computing Platform)
-
-   - S3 (Storage)
+2. AWS Cognito (Authentication)
+3. AWS API (GraphQL and REST)
+4. AWS Dynamodb (Database)
+5. AWS Route 53 (Domain Name System service)
+6. AWS Lambda (Serverless Computing Platform)
+7. AWS S3 (Storage)
 
 ### Databases:
 
 1. PostgreSQL
-
-1. Dynamodb
-
-1. Redis
-
-### CSS frameworks:
-
-1. Bootstrap
-
-1. Ant Design
-
-1. MUI
-
-### Version Controls:
-
-1. Git
-
-   - Commitizen
-
-   - Standard Version
-
-1. SVN
-
-### Package Managers:
-
-1. NPM
-
-1. Bundler
-
-### Linters and Formatters:
-
-1. Eslint
-
-1. Prettier
+2. Dynamodb
+3. Redis
+4. MySQL
 
 ### Message Brokers:
 
 1. RabbitMMQ
+2. MQTT
 
 ### Virtualizations:
 
 1. Docker
-
-   - Docker Compose
+2. Docker Compose
 
 ---
 
@@ -113,49 +53,24 @@ My goal is to be a better me
 
 Aug 2019 - Present
 
-1. Maintain and develop app for sla report
-
-   - Get log from checkmk livestatus and generate timeline
-
-   - Edit downtime if downtime happens because problem in client
-
-1. Maintain and develop app for creating assessments
-
-   - Create list of questions
-
-   - Answers have multiple types (input, single choice, multiple choices, date)
-
-1. Develop script for Arduino
-
-   - Receive message using MQTT to control Air Conditioner
-
-   - Sending temperature data using MQTT
-
-   - Timer for UV light
+1. SLA report - Get log from Checkmk Livestatus and generate timeline.
+2. Assessments - create list of questions with different type of answers (input, single choice, multiple choices, date).
+3. Script for Arduino - Receive message using MQTT to control Air Conditioner
+4. Script for Arduino - Sending temperature data using MQTT
+5. Script for Arduino - Timer for UV light
+6. Work Order - Request work order and set flexible data for planning and report
+7. Online Menu for restaurant
+8. Change [openHAB][openhab] logo for rebranding
 
 #### **PT. Dutakom Wibawa Putra**, IT-Application Supervisor
 
 Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
-1. Maintain and develop [DREAMS][dreams]
-
-   Platform for communication, contain of:
-
-   - Cloud Email Server: postfix, dovecot, clamav, spamassasin
-
-   - Team Collaboration: [Mattermost][mattermost]
-
-   - Newsletter Builder: [Mosaico][mosaico]
-
-1. Maintain and develop script for automations and bots
-
-1. Maintain and develop applications for internal operation
-
-   - Human Resource application
-
-   - Warehouse application
-
-   - Customer's billing application
+1. [DREAMS][dreams] - Platform for communication (Cloud Email Server [postfix, dovecot, clamav, spamassasin], Team Collaboration [Mattermost][mattermost], Newsletter Builder [Mosaico][mosaico])
+2. Automations and bots
+3. Human Resource application
+4. Warehouse application
+5. Customer's billing application
 
 ---
 
@@ -195,3 +110,4 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 [dreams]: https://dreamsmail.id
 [mattermost]: https://mattermost.com
 [mosaico]: https://mosaico.io
+[openhab]: https://www.openhab.org
