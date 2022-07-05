@@ -93,16 +93,20 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
    Tools: RoR, device, capistrano
 
-2. Customer's billing application
+2. OAuth2 Provider
+
+   Tools: RoR, device, capistrano, doorkeeper
+
+3. Customer's billing application
 
    Tools: RoR, device, capistrano
 
-3. Automations and bots
-4. Human Resource application
+4. Automations and bots
+5. Human Resource application
 
    Tools: PHP
 
-5. Warehouse application
+6. Warehouse application
 
    Tools: PHP
 
