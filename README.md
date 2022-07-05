@@ -9,7 +9,7 @@ Just an ordinary person strives to get better and contribute to society.
 1. Javascript
 2. Nextjs
 3. Angular
-4. Ionic  
+4. Ionic
 5. Hubot
 6. Ruby
 7. Ruby On Rails
@@ -54,23 +54,57 @@ Just an ordinary person strives to get better and contribute to society.
 Aug 2019 - Present
 
 1. SLA report - Get log from Checkmk Livestatus and generate timeline.
-2. Assessments - create list of questions with different type of answers (input, single choice, multiple choices, date).
-3. Script for Arduino - Receive message using MQTT to control Air Conditioner
-4. Script for Arduino - Sending temperature data using MQTT
-5. Script for Arduino - Timer for UV light
-6. Work Order - Request work order and set flexible data for planning and report
-7. Online Menu for restaurant
-8. Change [openHAB][openhab] logo for rebranding
+
+   Tools: Angular, Angular Material UI, AWS Dynamodb, AWS Cognito, AWS API, AWS Lambda, Checkmk Livestatus
+
+2. CRM
+
+   Tools: Angular, Angular Material UI, AWS Dynamodb, AWS Cognito, AWS API, AWS Lambda
+
+3. Assessments - create list of questions with different type of answers (input, single choice, multiple choices, date).
+
+   Tools: Angular, Ionic, AWS Dynamodb, AWS Cognito, AWS API
+
+4. Work Order - Request work order and set flexible data for planning and report
+
+   Tools: Angular, Ionic, AWS Dynamodb, AWS Cognito, AWS API
+
+5. Online Menu for restaurant
+
+   Tools: Nextjs, MySQL, Sequelize (Changed from Prisma because hosted using Red hat - old linux kernel)
+
+6. Telegram bot for mikrotik
+
+   Tools: Flask, Bootstrap, MySQL
+
+7. Script for Arduino - Receive message using MQTT to control Air Conditioner
+8. Script for Arduino - Sending temperature data using MQTT
+9. Script for Arduino - Timer for UV light
+
+10. Change [openHAB][openhab] logo for rebranding
+
+Tolls: maven
 
 #### **PT. Dutakom Wibawa Putra**, IT-Application Supervisor
 
 Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 1. [DREAMS][dreams] - Platform for communication (Cloud Email Server [postfix, dovecot, clamav, spamassasin], Team Collaboration [Mattermost][mattermost], Newsletter Builder [Mosaico][mosaico])
-2. Automations and bots
-3. Human Resource application
-4. Warehouse application
-5. Customer's billing application
+
+   Tools: RoR, device, capistrano
+
+2. Customer's billing application
+
+   Tools: RoR, device, capistrano
+
+3. Automations and bots
+4. Human Resource application
+
+   Tools: PHP
+
+5. Warehouse application
+
+   Tools: PHP
 
 ---
 
