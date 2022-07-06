@@ -101,7 +101,7 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
    Tools: Ruby On Rails, device, capistrano
 
-4. Automations and bots
+4. Automatons and bots
 
    Tools: Hubot
 
