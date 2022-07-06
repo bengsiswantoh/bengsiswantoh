@@ -91,15 +91,15 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 1. [DREAMS][dreams] - Platform for communication (Cloud Email Server [postfix, dovecot, clamav, spamassasin], Team Collaboration [Mattermost][mattermost], Newsletter Builder [Mosaico][mosaico])
 
-   Tools: Ruby On Rails, device, capistrano, RabbitMQ
+   Tools: Ruby On Rails, device, capistrano, RabbitMQ, PostgreSQL
 
 2. OAuth2 Provider
 
-   Tools: Ruby On Rails, device, capistrano, doorkeeper
+   Tools: Ruby On Rails, device, capistrano, doorkeeper, PostgreSQL
 
 3. Customer's billing application
 
-   Tools: Ruby On Rails, device, capistrano
+   Tools: Ruby On Rails, device, capistrano, PostgreSQL
 
 4. Automatons and bots
 
