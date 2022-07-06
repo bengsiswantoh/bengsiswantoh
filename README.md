@@ -7,7 +7,7 @@ Just an ordinary person strives to get better and contribute to society.
 ### Languages and Frameworks:
 
 1. Javascript
-2. Nextjs
+2. NextJS
 3. Angular
 4. Ionic
 5. Hubot
@@ -71,7 +71,7 @@ Aug 2019 - Present
 
 5. Online Menu for restaurant
 
-   Tools: Nextjs, MySQL, Sequelize (Changed from Prisma because hosted using Red hat - old linux kernel)
+   Tools: NextJS, MySQL, Sequelize (Changed from Prisma because hosted using Red hat - old linux kernel)
 
 6. Telegram bot for mikrotik
 
@@ -91,17 +91,20 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 1. [DREAMS][dreams] - Platform for communication (Cloud Email Server [postfix, dovecot, clamav, spamassasin], Team Collaboration [Mattermost][mattermost], Newsletter Builder [Mosaico][mosaico])
 
-   Tools: RoR, device, capistrano
+   Tools: Ruby On Rails, device, capistrano, RabbitMQ
 
 2. OAuth2 Provider
 
-   Tools: RoR, device, capistrano, doorkeeper
+   Tools: Ruby On Rails, device, capistrano, doorkeeper
 
 3. Customer's billing application
 
-   Tools: RoR, device, capistrano
+   Tools: Ruby On Rails, device, capistrano
 
 4. Automations and bots
+
+   Tools: Hubot
+
 5. Human Resource application
 
    Tools: PHP
