@@ -1,49 +1,48 @@
-### Hi there, I'm Bengsiswanto Hendrawan
+### Bengsiswanto Hendrawan
+
+bengsiswantoh@gmail.com
+
+https://www.linkedin.com/in/bengsiswantoh
+
+https://github.com/bengsiswantoh
+
+---
+
+### Summary
 
 Just an ordinary person strives to get better and contribute to society.
 
 ---
 
-### Languages and Frameworks:
+### Skills:
 
 1. Javascript
-2. NextJS
-3. Angular
-4. Ionic
-5. Hubot
-6. Ruby
-7. Ruby On Rails
-8. C#
-9. Unity
-10. Python
-11. Flask
-
-### Serverless:
-
-1. AWS Amplify
-2. AWS Cognito (Authentication)
-3. AWS API (GraphQL and REST)
-4. AWS Dynamodb (Database)
-5. AWS Route 53 (Domain Name System service)
-6. AWS Lambda (Serverless Computing Platform)
-7. AWS S3 (Storage)
-
-### Databases:
-
-1. PostgreSQL
-2. Dynamodb
-3. Redis
-4. MySQL
-
-### Message Brokers:
-
-1. RabbitMMQ
-2. MQTT
-
-### Virtualizations:
-
-1. Docker
-2. Docker Compose
+2. React
+3. NextJS
+4. Angular
+5. Ionic
+6. Hubot
+7. Ruby
+8. Ruby On Rails
+9. C#
+10. Unity
+11. Python
+12. Flask
+13. AWS Amplify
+14. AWS Cognito (Authentication)
+15. AWS API (GraphQL and REST)
+16. AWS Dynamodb (Database)
+17. AWS Route 53 (Domain Name System service)
+18. AWS Lambda (Serverless Computing Platform)
+19. AWS S3 (Storage)
+20. PostgreSQL
+21. Dynamodb
+22. Redis
+23. MySQL
+24. RabbitMMQ
+25. MQTT
+26. Docker
+27. Docker Compose
 
 ---
 
@@ -123,11 +122,11 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
    - 2009
 
----
+<!-- --- -->
 
-### Contacts:
+<!-- ### Contacts:
 
-[<img align="left" alt="bengsiswantoh | Mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="bengsiswantoh | Mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="bengsiswanto | Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="bengsiswantoh | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bengsiswantoh | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -135,7 +134,7 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 <br />
 
----
+--- -->
 
 <!--### Github Stats:
 
@@ -143,7 +142,7 @@ Nov 2009 - Jul 2019 (9 yrs 9 mos)
 
 [![Top Langs](https://github-readme-stats.mightiesthero.vercel.app/api/top-langs/?username=bengsiswantoh)](https://github.com/bengsiswantoh/github-readme-stats) -->
 
-[mail]: mailto:bengsiswantoh@gmail.com
+[email]: mailto:bengsiswantoh@gmail.com
 [github]: https://github.com/bengsiswantoh
 [linkedin]: https://www.linkedin.com/in/bengsiswantoh
 [youtube]: https://www.youtube.com/channel/UCqxXmZPBZfuHVMzPHprDkPg
