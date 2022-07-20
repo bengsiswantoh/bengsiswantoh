@@ -1,0 +1,23 @@
+{
+  "name": "bengsiswantoh",
+  "version": "1.0.0",
+  "description": "Just an ordinary person strives to get better and contribute to society.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengsiswantoh/bengsiswantoh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengsiswantoh/bengsiswantoh/issues"
+  },
+  "homepage": "https://github.com/bengsiswantoh/bengsiswantoh#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
