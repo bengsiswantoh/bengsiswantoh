@@ -82,7 +82,7 @@ Aug 2019 - Present
 
 10. Change [openHAB][openhab] logo for rebranding
 
-Tolls: maven
+    Tools: maven
 
 #### **PT. Dutakom Wibawa Putra**, IT-Application Supervisor
 
