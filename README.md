@@ -1,7 +1,5 @@
 ### Bengsiswanto Hendrawan
 
-bengsiswantoh@gmail.com
-
 https://www.linkedin.com/in/bengsiswantoh
 
 https://github.com/bengsiswantoh
